@@ -1,0 +1,40 @@
+td, th{
+	border: 1px solid black;
+	border-radius: 5px;
+}
+
+table{
+	/*
+	border-collapse: collapse;*/
+	border-spacing: 5px;
+	width: 100%
+}
+th{
+	background-color: #b4c2cf;
+}
+.magistral{
+	background-color: #bfbfbf;
+}
+.conf{
+	background-color: #e5e6fe;
+}
+.taller{
+	background-color: #9699fe;
+}
+td span{
+	display: block;
+}
+.ponente{
+	font-style: italic;
+}
+.event-type{
+	font-size: .8em;
+	font-style: italic;
+}
+table caption{
+
+}
+.general, .comida, .registro{
+		background-color:  #9798ca;
+
+}
